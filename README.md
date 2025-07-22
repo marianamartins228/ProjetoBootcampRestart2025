@@ -2,8 +2,10 @@
 Projeto criado ao final do Bootcamp Restart - Data Girls 2025. O projeto será realizado a partir do dataset IBM HR Analytics Attrition & Performance
 
 ## Leitura & Exploração Inicial
-Neste projeto de análise de dados, será utilizado o dataset “IBM HR Analytics Attrition & Performance”, com o objetivo de investigar os principais fatores que influenciam a rotatividade de funcionários. A proposta é conduzir todas as etapas de um projeto real de dados — da exploração e tratamento das informações à construção de visualizações interativas — para oferecer insights estratégicos à empresa fictícia Data Girls S.A. O resultado final será um dashboard que apoie a área de Recursos Humanos na tomada de decisões voltadas à retenção de talentos e melhoria do desempenho organizacional.
-Limpeza & Preparação dos Dados
+Neste projeto, vamos analisar o conjunto de dados “IBM HR Analytics Attrition & Performance” para entender os motivos que levam os funcionários a saírem da empresa. O objetivo é descobrir padrões e fatores que influenciam a rotatividade, ajudando a empresa fictícia Data Girls S.A a tomar decisões mais estratégicas na área de Recursos Humanos. Ao final, será criado um dashboard interativo com os principais resultados.
+
+
+## Limpeza & Preparação dos Dados
 
 ## Análise Exploratória (EDA)
 
