@@ -21,10 +21,14 @@ Principais observações que poderão ser relevantes posteriormente:
 ## Limpeza & Preparação dos Dados
 
 O primeiro passo na fase de limpeza e preparação dos dados foi averiguar se existem dados não nulos na base, conforme abaixo. Por se tratar de uma base de dados fictícia, todos os dados estão devidamente preenchidos e tipificados.
+
 <img width="474" height="800" alt="image" src="https://github.com/user-attachments/assets/a15d21e1-553f-431a-9726-49e3e5126822" />
+
 Uma análise do conteúdo das colunas, revelou que algumas delas possuíam valores redundantes que não poderia ser objeto de análise relevante, então efetuei a exclusão dessas colunas. Utilizei o argumento inplace para remover esses dados diretamente no df.
 <img width="589" height="44" alt="image" src="https://github.com/user-attachments/assets/dcd9f09b-7aef-4db5-bc0c-ac0899690131" />
+
 Em seguida verifiquei se existiam funcionários com dados duplicados:
+
 <img width="674" height="82" alt="image" src="https://github.com/user-attachments/assets/ee2cec51-1041-467a-a594-0c629ad004e2" />
 
 ## Análise Exploratória (EDA)
