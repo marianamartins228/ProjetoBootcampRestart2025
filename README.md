@@ -10,7 +10,7 @@ A partir desses insights foi possível determinar alguns passos a se seguir na e
 - Perfil do colaborador: departamento, cargo, se viaja ou não, se faz hora extra ou não, anos de experiência, salário etc.
 - Variáveis qualitativas: composta por avaliações realizadas com o colaborador concernentes a satisfação geral.
 
-A seguir irei detalhar o tratamento dos dados para visualização em cada subdivisão:
+A seguir irei detalhar o tratamento dos dados para visualização em cada subdivisão. Essa subdivisão também irá contemplar uma análise e sugestões de planos de ações.
 
 ## Perfil individual
 - Primeiramente foi criada uma medida que somava o total de funcionários ao contar a quantidade de códigos únicos. A criação dessa medida irá possibilitar a integração de todos os gráficos para uma análise correlacionada.
