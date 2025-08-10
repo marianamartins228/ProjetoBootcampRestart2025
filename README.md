@@ -80,6 +80,49 @@ Técnico de Laboratório:
 - Como era esperado, a rotatividade é mais elevada entre colaboradores que demonstram baixa satisfação com o trabalho, pouco envolvimento e dificuldades em manter o equilíbrio entre vida pessoal e profissional. Após a implementação das medidas já mencionadas, é fundamental que o setor de Recursos Humanos reavalie esses indicadores periodicamente para monitorar sinais de melhoria e ajustar estratégias conforme necessário. Além disso, **recomenda-se que esse tipo de análise seja desvinculado do código individual do colaborador** — como ocorre nesta base de dados — para garantir a confidencialidade. A coleta de dados deve ser feita com foco no setor ou cargo, **promovendo um ambiente de confiança e incentivando respostas mais sinceras**. Para reforçar essa segurança, pode-se adotar pesquisas anônimas e comunicar claramente aos colaboradores que suas opiniões serão tratadas com sigilo e respeito.
 
 
+## Síntese dos principais resultados, ações e considerações
+### Perfil Individual
+
+- Faixa etária com maior rotatividade: 18 a 25 anos (35,77%) e 26 a 35 anos.
+- Estado civil: Solteiros têm maior rotatividade (25,53%) comparado a casados (12,48%) e divorciados (10,09%).
+- Gênero: Homens apresentam ligeiramente mais rotatividade.
+- Nível educacional: Rotatividade proporcional, com destaque para bacharelado e mestrado.
+- Área de formação: Marketing, Técnico e RH têm taxas mais altas.
+
+Medidas recomendadas: 
+- Reavaliar benefícios voltados para jovens e solteiros (flexibilidade, bem-estar, trabalho híbrido).
+- Criar programas de desenvolvimento de carreira com trilhas claras de crescimento.
+
+### Perfil do Colaborador
+
+- Cargos operacionais (representantes, técnicos) têm maior rotatividade que cargos de gestão.
+- Setores mais críticos: Vendas e Recursos Humanos.
+- Distância da casa: Colaboradores que saem percorrem, em média, 2 milhas a mais.
+- Salário: Colaboradores desligados ganham cerca de 2.000 a menos.
+- Tempo de empresa: Permanentes têm, em média, dois anos a mais.
+- Viagens a trabalho: Quem viaja com frequência tem rotatividade de 24,91%, contra 8% de quem não viaja.
+- Hora extra: 30,53% de rotatividade entre quem faz hora extra, contra 10,44% entre quem não faz.
+
+Medidas recomendadas: 
+
+- Revisar plano de cargos e salários, especialmente em áreas operacionais.
+- Implementar ajuda de custo para transporte.
+- Criar programas de retenção com bônus por tempo de casa.
+- Estruturar planos de carreira e mentoria para representantes de vendas.
+- Reequilibrar demandas e investir em reconhecimento no setor de RH.
+
+### Variáveis Qualitativas
+- Baixa satisfação, envolvimento e equilíbrio estão diretamente ligados à rotatividade.
+- Avaliações qualitativas indicam que colaboradores com notas baixas em satisfação geral, ambiente e relacionamentos tendem a sair mais.
+
+Medidas recomendadas: 
+- Realizar pesquisas anônimas para garantir sinceridade nas respostas.
+- Monitorar periodicamente os indicadores de satisfação e ajustar ações conforme os resultados.
+- Desvincular análises do código do colaborador para preservar anonimato.
+
+Ponto sugerido para melhoria da análise:
+- Falta de segmentação temporal: Não há análise por tempo (ano/mês), o que dificulta identificar tendências.
+
 
 
 
