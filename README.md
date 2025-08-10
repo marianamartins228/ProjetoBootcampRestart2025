@@ -60,10 +60,15 @@ Colaboradores que permanecem na empresa:
 - A análise da área de vendas revela uma **disparidade significativa entre os cargos de representante e executivo**, tanto em termos de rotatividade quanto de remuneração e tempo de empresa. Enquanto os **representantes apresentam uma taxa de rotatividade de 39,76%, os executivos registram apenas 17,4%**. Além disso, há um **gap salarial expressivo de 4,2 mil a favor dos executivos, que também possuem, em média, quatro anos a mais de permanência na organização**. Esses dados indicam a necessidade de ações estratégicas como a implementação de planos de carreira estruturados e personalizados para essa área, **programas de mentoria e capacitação, políticas salariais mais competitivas e modelo de comissionamento mais compatível com a função.**
 - Outro destaque se faz necessário para cargos na área de **recursos humanos em si**, onde existe uma **rotatividade de 23,08%**. A rotatividade no RH pode estar ligada à **sobrecarga de trabalho, pressão por resultados e poucas oportunidades de crescimento.** Para avaliar e reduzir esse índice, recomenda-se buscar um **equilíbrio das demandas, investir em desenvolvimento e reconhecimento dos profissionais e revisar o plano de carreira específico da área.**
 - No setor de Pesquisa e Desenvolvimento, que concentra mais da metade do total de colaboradores, destaca-se o cargo de **Técnico de Laboratório, cuja rotatividade é 7,84% maior do que a do cargo de Cientista Pesquisador, apesar de ambos apresentarem indicadores compatíveis.** Esse dado sugere que fatores além de salário, tempo de empresa e treinamento podem estar influenciando essa diferença.
+- 
 Cientista Pesquisador:
+
 <img width="212" height="310" alt="image" src="https://github.com/user-attachments/assets/5e7cb029-f83e-4102-abed-f1a2973b06c2" />
+
 Técnico de Laboratório:
+
 <img width="209" height="307" alt="image" src="https://github.com/user-attachments/assets/55a5b7ed-f901-4d38-872a-8428284628b5" />
+
 - Viagem a trabalho: é possível perceber uma relação entre rotatividade e viagens a trabalho. Isso porque quem **viaja raramente possui 14,96% de rotatividade, quem viaja com frequência tem 24,91% e quem não viaja possui apenas 8% de rotatividade**. Entre as ações recomendadas cita-se avaliar e **implementar melhorias nas condições de trabalho durante as viagens, como suporte logístico e tempo de descanso adequado.** Também seria recomendável promover **benefícios específicos para colaboradores que viajam, como incentivos, reconhecimentos ou compensações extras.**
 - Hora extra: este indicador revela um ponto crítico de atenção. Na base geral, 70% dos colaboradores não precisam realizar horas extras. No entanto, entre os que precisam, observa-se uma **taxa de rotatividade alarmante de 30,53%, significativamente superior à taxa de 10,44% entre os que não fazem hora extra**. Para mitigar esse impacto, é essencial **revisar a distribuição de carga horária, implementar políticas de compensação mais justas e promover ações de escuta ativa com os times mais sobrecarregados.**
 
