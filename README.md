@@ -1,4 +1,3 @@
-<img width="212" height="310" alt="image" src="https://github.com/user-attachments/assets/aad3f72a-9ec0-4485-8838-1af9d2c5cc1f" />
 <img width="1387" height="777" alt="afgsegs" src="https://github.com/user-attachments/assets/543ec4eb-b824-4d8c-a0c4-8d9c12192f58" />
 
 # Projeto Bootcamp Restart 2025
