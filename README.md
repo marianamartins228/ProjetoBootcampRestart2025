@@ -1,4 +1,4 @@
-
+<img width="212" height="310" alt="image" src="https://github.com/user-attachments/assets/aad3f72a-9ec0-4485-8838-1af9d2c5cc1f" />
 <img width="1387" height="777" alt="afgsegs" src="https://github.com/user-attachments/assets/543ec4eb-b824-4d8c-a0c4-8d9c12192f58" />
 
 # Projeto Bootcamp Restart 2025
@@ -49,16 +49,35 @@ Principais resultados e sugestões de planos de ação:
 - Os indicadores que revelam o perfil profissional estão segmentados entre os que deixaram ou não a empresa e taxa de rotatividade.
 Colaboradores que deixaram a empresa:
 
-<img width="1312" height="730" alt="image" src="https://github.com/user-attachments/assets/6bd8675e-eb3d-4995-a872-80ebd7395bda" />
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/032aa4f0-19a0-4678-9616-1bd5436bf351" />
 
 Colaboradores que permanecem na empresa:
 
-<img width="1312" height="739" alt="image" src="https://github.com/user-attachments/assets/8aee8ec5-ac82-4f49-b1a4-549614656e7c" />
+<img width="1311" height="739" alt="image" src="https://github.com/user-attachments/assets/419f9f33-8d7f-4e47-ac11-f17b3fb8b9f9" />
 
-- Para essas informações foram criadas medidas que revelam uma síntese de indicadores importantes como aumento salarial, distância de casa, quantidade de empresas anteriores, quantidade de treinamentos no último ano e salário mensal médio.
-
-<img width="216" height="295" alt="image" src="https://github.com/user-attachments/assets/7f3b1522-46ee-4922-8caf-27e2586e4328" />
-
+- Para essas informações foram criadas medidas que revelam uma síntese de indicadores importantes como aumento salarial, distância de casa, quantidade de empresas anteriores, quantidade de treinamentos no último ano, salário mensal médio e anos de empresa. Na comparação entre os que deixaram ou não a empresa destaca-se: (1) aqueles que deixaram a empresa tem uma distância média de 2 milhas maior a percorrer do que os colaboradores que permanecem, (2) os colaboradores que saíram ganhavam em média 2 mil a menos, (3) os colaboradores que permanecem possuem em média dois anos a mais de empresa.
+- Com base nesses números recomenda-se novamente examinar o plano de cargos e salários para validar se não há uma defasagem de salários em relação aos valores praticados pelo mercado, além de analisar se existem programas de ajuda de custo para transporte e se eles são compatíveis com a realidade da empresa. Em relação ao tempo de empresa, o setor de recursos humanos poderia avaliar a criação de programação de retenção de talentos com benefícios ou bônus específicos para quem atinge marcos de permanência.
+- Distribuição por cargos e departamento: observa-se que a taxa de rotatividade é substancialmente menor em cargos de gestão e diretoria, concentrando-se em cargos de atividade operacionais, com destaque para o setor de vendas e recursos humanos.
+- A análise da área de vendas revela uma disparidade significativa entre os cargos de representante e executivo, tanto em termos de rotatividade quanto de remuneração e tempo de empresa. Enquanto os representantes apresentam uma taxa de rotatividade de 39,76%, os executivos registram apenas 17,4%. Além disso, há um gap salarial expressivo de 4,2 mil a favor dos executivos, que também possuem, em média, quatro anos a mais de permanência na organização. Esses dados indicam a necessidade de ações estratégicas como a implementação de planos de carreira estruturados e personalizados para essa área, programas de mentoria e capacitação, políticas salariais mais competitivas e modelo de comissionamento mais compatível com a função.
+- Outro destaque se faz necessário para cargos na área de recursos humanos em si, onde existe uma rotatividade de 23,08%. A rotatividade no RH pode estar ligada à sobrecarga de trabalho, pressão por resultados e poucas oportunidades de crescimento. Para avaliar e reduzir esse índice, recomenda-se buscar um equilíbrio das demandas, investir em desenvolvimento e reconhecimento dos profissionais e revisar o plano de carreira específico da área.
+- No setor de Pesquisa e Desenvolvimento, que concentra mais da metade do total de colaboradores, destaca-se o cargo de Técnico de Laboratório, cuja rotatividade é 7,84% maior do que a do cargo de Cientista Pesquisador, apesar de ambos apresentarem indicadores compatíveis. Esse dado sugere que fatores além de salário, tempo de empresa e treinamento podem estar influenciando essa diferença.
+Cientista Pesquisador:
+<img width="212" height="310" alt="image" src="https://github.com/user-attachments/assets/5e7cb029-f83e-4102-abed-f1a2973b06c2" />
+Técnico de Laboratório:
+<img width="209" height="307" alt="image" src="https://github.com/user-attachments/assets/55a5b7ed-f901-4d38-872a-8428284628b5" />
+- Viagem a trabalho: é possível perceber uma relação entre rotatividade e viagens a trabalho. Isso porque quem viaja raramente possui 14,96% de rotatividade, quem viaja com frequência tem 24,91% e quem não viaja possui apenas 8% de rotatividade. Entre as ações recomendadas cita-se avaliar e implementar melhorias nas condições de trabalho durante as viagens, como suporte logístico e tempo de descanso adequado. Também seria recomendável promover benefícios específicos para colaboradores que viajam, como incentivos, reconhecimentos ou compensações extras.
+- Hora extra: este indicador revela um ponto crítico de atenção. Na base geral, 70% dos colaboradores não precisam realizar horas extras. No entanto, entre os que precisam, observa-se uma taxa de rotatividade alarmante de 30,53%, significativamente superior à taxa de 10,44% entre os que não fazem hora extra. Para mitigar esse impacto, é essencial revisar a distribuição de carga horária, implementar políticas de compensação mais justas e promover ações de escuta ativa com os times mais sobrecarregados.
 
 ## Variáveis qualitativas
+- Para as variáveis qualitativas não se faz necessária a criação de medidas, apenas a hierarquização das categorias.
+
+<img width="1314" height="737" alt="image" src="https://github.com/user-attachments/assets/c1149b6b-f39f-4a33-bd83-c444a7151cdf" />
+
+- Como era esperado, a rotatividade é mais elevada entre colaboradores que demonstram baixa satisfação com o trabalho, pouco envolvimento e dificuldades em manter o equilíbrio entre vida pessoal e profissional. Após a implementação das medidas já mencionadas, é fundamental que o setor de Recursos Humanos reavalie esses indicadores periodicamente para monitorar sinais de melhoria e ajustar estratégias conforme necessário. Além disso, recomenda-se que esse tipo de análise seja desvinculado do código individual do colaborador — como ocorre nesta base de dados — para garantir a confidencialidade. A coleta de dados deve ser feita com foco no setor ou cargo, promovendo um ambiente de confiança e incentivando respostas mais sinceras. Para reforçar essa segurança, pode-se adotar pesquisas anônimas e comunicar claramente aos colaboradores que suas opiniões serão tratadas com sigilo e respeito.
+
+
+
+
+
+
 
