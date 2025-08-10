@@ -123,7 +123,36 @@ Medidas recomendadas:
 Ponto sugerido para melhoria da análise:
 - Falta de segmentação temporal: Não há análise por tempo (ano/mês), o que dificulta identificar tendências.
 
+## Automação com Power Automate
 
+Este projeto inclui uma automação criada com Power Automate que envia alertas por e-mail quando a taxa de rotatividade ultrapassa 20%.
+
+### O que a automação faz:
+- Executa diariamente
+- Consulta o dataset do Power BI
+- Verifica se a taxa de rotatividade ultrapassa 20%
+- Envia um e-mail de alerta e link para o dashboard
+
+### Fluxo utilizado:
+- Gatilho: Recorrência diária
+- Ação: Executar consulta DAX no Power BI
+- Condição: Verifica se taxa de rotatividade > 20%
+- Resultado: Envio de e-mail automático
+
+### Arquivo e informações do fluxo:
+
+[automacao_tx_rotatividade_20250810181552.zip](https://github.com/user-attachments/files/21706820/automacao_tx_rotatividade_20250810181552.zip)
+
+<img width="1108" height="439" alt="image" src="https://github.com/user-attachments/assets/d16699bb-8c48-4318-b335-ece8953c68ec" />
+
+<img width="1111" height="711" alt="image" src="https://github.com/user-attachments/assets/6cb529f7-1626-4e58-8672-eb445118f908" />
+
+<img width="1385" height="827" alt="image" src="https://github.com/user-attachments/assets/d8f195a0-a14d-48a6-a985-11f11316c0f9" />
+
+
+## Encerramento
+
+Este projeto foi desenvolvido com o objetivo de aplicar conhecimentos práticos em análise de dados e visualização com Power BI. A solução proposta oferece uma abordagem eficiente para monitorar a taxa de rotatividade nas empresas, permitindo decisões mais ágeis e estratégicas. Estou aberta a críticas construtivas e sugestões que possam aprimorar ainda mais este estudo — toda contribuição é bem-vinda! Muito obrigada!
 
 
 
