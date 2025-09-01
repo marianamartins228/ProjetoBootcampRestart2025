@@ -1,4 +1,5 @@
-<img width="1387" height="777" alt="afgsegs" src="https://github.com/user-attachments/assets/543ec4eb-b824-4d8c-a0c4-8d9c12192f58" />
+<img width="1435" height="801" alt="image" src="https://github.com/user-attachments/assets/f6cc99a3-966f-465a-94be-75e70b0e660b" />
+
 
 # Projeto Bootcamp Restart 2025
 Projeto criado ao final do Bootcamp Restart - Data Girls 2025 para a Trilha Analista de Dados. O projeto será realizado a partir do dataset 'IBM HR Analytics Attrition & Performance' com o objetivo de se realizar uma Análise de Turnover (Rotatividade) de Funcionários.
@@ -23,19 +24,19 @@ A seguir irei detalhar o tratamento dos dados para visualização em cada subdiv
 
 Desta forma, a primeira página do dashboard irá trazer as seguintes análises:
 
-<img width="1309" height="731" alt="image" src="https://github.com/user-attachments/assets/5662cefa-9d23-4c2b-95be-ab3178b01553" />
+<img width="1542" height="867" alt="image" src="https://github.com/user-attachments/assets/4d71e2d2-7986-44e5-9030-33be06c560a0" />
 
 Colaboradores que deixaram a empresa:
 
-<img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/1fc78e78-0915-44ba-8102-7f9fb74610a5" />
+<img width="1541" height="866" alt="image" src="https://github.com/user-attachments/assets/7cdfae13-6bd1-44b1-83eb-bb39a8701324" />
 
 Colaboradores que permanecem na empresa:
 
-<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/f0751bef-a7fa-4a89-b47a-9f95c39033b2" />
+<img width="1543" height="871" alt="image" src="https://github.com/user-attachments/assets/03edfed6-e944-4df8-adb1-1363ca8219b1" />
 
 - O principal volume de colaboradores que deixaram a empresa é composto por pessoas com **estado civil Solteiro(a), com uma taxa de rotatividade de 25,53%, em contraste com os Casados(as) - 12,48% e os Divorciados(as) - 10,09%**.
 
-<img width="440" height="302" alt="image" src="https://github.com/user-attachments/assets/17a163e2-4273-40e4-97f0-d776ce8384c4" />
+<img width="518" height="351" alt="image" src="https://github.com/user-attachments/assets/cc9cfb9d-6ce5-41de-9e4e-84fe5a7aaed1" />
 
 - Em relação à área de formação, o perfil individual do colaborador que deixou a empresa é relativamente uniforme com a distribuição geral de todos os colaboradores, sem haver uma área que se destaque visualmente em relação às outras. Não obstante é possível perceber uma **taxa de rotatividade expressiva em Marketing, Técnico e Recursos Humanos**.
 - A taxa de **rotatividade do sexo masculino é ligeiramente maior do que no sexo feminino**.
@@ -48,11 +49,11 @@ Colaboradores que permanecem na empresa:
 
 Colaboradores que deixaram a empresa:
 
-<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/032aa4f0-19a0-4678-9616-1bd5436bf351" />
+<img width="1542" height="868" alt="image" src="https://github.com/user-attachments/assets/caf442ed-7e73-4c35-b95a-d3533d03b323" />
 
 Colaboradores que permanecem na empresa:
 
-<img width="1311" height="739" alt="image" src="https://github.com/user-attachments/assets/419f9f33-8d7f-4e47-ac11-f17b3fb8b9f9" />
+<img width="1543" height="866" alt="image" src="https://github.com/user-attachments/assets/1ab8766b-3ead-42d1-8e43-ad4c3f3c1553" />
 
 - Para essas informações foram criadas medidas que revelam uma síntese de indicadores importantes como **aumento salarial, distância de casa, quantidade de empresas anteriores, quantidade de treinamentos no último ano, salário mensal médio e anos de empresa**. Na comparação entre os que deixaram ou não a empresa destaca-se: **(1) aqueles que deixaram a empresa tem uma distância média de 2 milhas maior a percorrer do que os colaboradores que permanecem, (2) os colaboradores que saíram ganhavam em média 2 mil a menos, (3) os colaboradores que permanecem possuem em média dois anos a mais de empresa.**
 - Com base nesses números recomenda-se novamente examinar o plano de cargos e salários para **validar se não há uma defasagem de salários em relação aos valores praticados pelo mercado, além de analisar se existem programas de ajuda de custo para transporte e se eles são compatíveis com a realidade da empresa**. Em relação ao tempo de empresa, o setor de recursos humanos poderia **avaliar a criação de programação de retenção de talentos com benefícios ou bônus específicos para quem atinge marcos de permanência**.
@@ -63,11 +64,11 @@ Colaboradores que permanecem na empresa:
 - 
 Cientista Pesquisador:
 
-<img width="212" height="310" alt="image" src="https://github.com/user-attachments/assets/5e7cb029-f83e-4102-abed-f1a2973b06c2" />
+<img width="252" height="361" alt="image" src="https://github.com/user-attachments/assets/d21c3f3d-801d-4c17-aa4a-65e8cc4e5761" />
 
 Técnico de Laboratório:
 
-<img width="209" height="307" alt="image" src="https://github.com/user-attachments/assets/55a5b7ed-f901-4d38-872a-8428284628b5" />
+<img width="252" height="353" alt="image" src="https://github.com/user-attachments/assets/6820d9aa-253f-4af8-9e94-36e0366b2585" />
 
 - Viagem a trabalho: é possível perceber uma relação entre rotatividade e viagens a trabalho. Isso porque quem **viaja raramente possui 14,96% de rotatividade, quem viaja com frequência tem 24,91% e quem não viaja possui apenas 8% de rotatividade**. Entre as ações recomendadas cita-se avaliar e **implementar melhorias nas condições de trabalho durante as viagens, como suporte logístico e tempo de descanso adequado.** Também seria recomendável promover **benefícios específicos para colaboradores que viajam, como incentivos, reconhecimentos ou compensações extras.**
 - Hora extra: este indicador revela um ponto crítico de atenção. Na base geral, 70% dos colaboradores não precisam realizar horas extras. No entanto, entre os que precisam, observa-se uma **taxa de rotatividade alarmante de 30,53%, significativamente superior à taxa de 10,44% entre os que não fazem hora extra**. Para mitigar esse impacto, é essencial **revisar a distribuição de carga horária, implementar políticas de compensação mais justas e promover ações de escuta ativa com os times mais sobrecarregados.**
@@ -75,7 +76,7 @@ Técnico de Laboratório:
 ## Variáveis qualitativas
 - Para as variáveis qualitativas não se faz necessária a criação de medidas, apenas a hierarquização das categorias.
 
-<img width="1314" height="737" alt="image" src="https://github.com/user-attachments/assets/c1149b6b-f39f-4a33-bd83-c444a7151cdf" />
+<img width="1542" height="870" alt="image" src="https://github.com/user-attachments/assets/77d707cd-f932-4839-be17-d1eb457ddf0f" />
 
 - Como era esperado, a rotatividade é mais elevada entre colaboradores que demonstram baixa satisfação com o trabalho, pouco envolvimento e dificuldades em manter o equilíbrio entre vida pessoal e profissional. Após a implementação das medidas já mencionadas, é fundamental que o setor de Recursos Humanos reavalie esses indicadores periodicamente para monitorar sinais de melhoria e ajustar estratégias conforme necessário. Além disso, **recomenda-se que esse tipo de análise seja desvinculado do código individual do colaborador** — como ocorre nesta base de dados — para garantir a confidencialidade. A coleta de dados deve ser feita com foco no setor ou cargo, **promovendo um ambiente de confiança e incentivando respostas mais sinceras**. Para reforçar essa segurança, pode-se adotar pesquisas anônimas e comunicar claramente aos colaboradores que suas opiniões serão tratadas com sigilo e respeito.
 
