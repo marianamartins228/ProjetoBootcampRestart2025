@@ -4,10 +4,13 @@
 
 
 # Projeto Bootcamp Restart 2025
-Projeto desenvolvido ao final do Bootcamp Restart – Data Girls 2025, na trilha de Analista de Dados, utilizando o dataset IBM HR Analytics Attrition & Performance.
-O objetivo do projeto é realizar uma análise de turnover (rotatividade) de funcionários, identificando padrões, fatores associados ao desligamento e propondo ações estratégicas para retenção de talentos.
 
-As etapas de análise exploratória, limpeza e preparação dos dados foram realizadas em ambiente Google Colab, com uso de Python e SQL. A partir dos insights obtidos, foi desenvolvido um dashboard interativo no Power BI, estruturado para apoiar a tomada de decisão.
+A alta rotatividade (turnover) não é apenas uma métrica de RH, é um problema financeiro e operacional. Ela impacta diretamente os custos de recrutamento, a perda de capital intelectual e a sobrecarga das equipes remanescentes.
+Neste cenário, o objetivo deste projeto não é apenas "mostrar números", mas atuar como uma ferramenta de Inteligência de Negócios para responder:
+- Existem padrões comportamentais que antecedem o pedido de demissão?
+- Onde a diretoria deve investir (salário, ambiente ou carreira) para estancar a sangria de talentos?
+
+Utilizando dados históricos do IBM HR Analytics, desenvolvi uma solução ponta a ponta (do tratamento em Python e SQL ao Dashboard em Power BI) para transformar essas dúvidas em estratégias de retenção.
 
 Para melhor organização da análise, o estudo foi dividido em três grandes eixos:
 
