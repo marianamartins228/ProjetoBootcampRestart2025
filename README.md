@@ -1,4 +1,5 @@
-<img width="1540" height="864" alt="image" src="https://github.com/user-attachments/assets/674ab29c-b49a-4de2-9593-4e49ea40350c" />
+<img width="1718" height="961" alt="image" src="https://github.com/user-attachments/assets/65472bf4-a225-4c07-96f8-ef084156e5eb" />
+
 
 
 
@@ -10,17 +11,18 @@ As etapas de análise exploratória, limpeza e preparação dos dados foram real
 
 Para melhor organização da análise, o estudo foi dividido em três grandes eixos:
 
-- Perfil individual
-- Perfil do colaborador
-- Variáveis qualitativas (satisfação e engajamento)
+- Perfil demográfico
+- Desempenho e Cargos
+- Satisfação e engajamento
 
 Cada eixo apresenta os principais achados e recomendações práticas.
 
 
-## Perfil individual
+## Perfil demográfico
 A análise do perfil individual evidencia padrões relevantes de rotatividade relacionados a características demográficas e educacionais.
 
-<img width="1543" height="849" alt="image" src="https://github.com/user-attachments/assets/7f5422b4-a5c4-4b63-92a0-0f1b5ed4c5df" />
+<img width="1430" height="788" alt="image" src="https://github.com/user-attachments/assets/1935d6eb-b0e7-4e3b-b8d1-a47b98fab9f8" />
+
 
 Principais insights:
 
@@ -40,7 +42,7 @@ Ações recomendadas:
 ## Desempenho e Cargos
 A análise do perfil profissional evidencia diferenças importantes entre colaboradores desligados e ativos.
 
-<img width="1544" height="851" alt="image" src="https://github.com/user-attachments/assets/e5211229-15e5-4cd5-b889-3bd3deacf684" />
+<img width="1432" height="804" alt="image" src="https://github.com/user-attachments/assets/2bb3883b-1e49-4fba-8db8-0da2fe1be29c" />
 
 Principais achados:
 - Colaboradores que deixaram a empresa apresentam, em média:
@@ -68,7 +70,7 @@ Ações recomendadas:
 ## Satisfação e Engajamento
 As variáveis relacionadas à satisfação, envolvimento e equilíbrio entre vida pessoal e profissional apresentam forte associação com a rotatividade.
 
-<img width="1537" height="856" alt="image" src="https://github.com/user-attachments/assets/8a1b6846-5309-4e7f-8d0a-95600b1d51e1" />
+<img width="1417" height="788" alt="image" src="https://github.com/user-attachments/assets/5fbe5972-8e22-4c02-b708-e401ee3fb868" />
 
 Principais conclusões:
 - Colaboradores com baixa satisfação geral e menor engajamento tendem a deixar a empresa com maior frequência.
